@@ -2,6 +2,12 @@
 
 A personal task management application built with the MERN stack and a Python analytics microservice.
 
+
+https://github.com/user-attachments/assets/11a9e346-c8b5-468a-b459-229c8b1785b0
+
+
+
+
 ## Technology Stack
 
 | Layer | Technology |
@@ -280,10 +286,9 @@ Returns daily task creation and completion data for the specified period.
 
 ## Screenshots
 
-> Screenshots will be added after deployment. The application features:
-> - **Login/Register** — Clean, centered form with minimal styling
-> - **Dashboard** — Stat cards (total, completed, pending, in-progress, overdue), completion rate bar, pie chart for priority distribution, bar chart for status distribution, productivity trend from analytics service
-> - **Tasks** — Filterable/sortable task list with inline status change, edit/delete, search, CSV export, overdue and due-soon indicators
+<img width="1206" height="626" alt="Screenshot 2026-02-14 061056" src="https://github.com/user-attachments/assets/e9b2d1e7-320c-4c5a-b408-0d209803e3c7" />
+
+<img width="1253" height="892" alt="Screenshot 2026-02-14 061044" src="https://github.com/user-attachments/assets/24983f4b-6817-4f73-a55c-412ccb8315eb" />
 
 ## Known Limitations
 
